@@ -1,0 +1,29 @@
+Selektor {
+	Attribut:Wert;
+	Attribut2:Wert2;
+}
+
+body{
+	background:#CFE3FF;
+}
+
+header {
+	background:#A1FFFF;
+}
+
+dl {
+	font-size:20pt;
+	font-family:sans-serif;
+}
+
+h1 {
+	font-size: 30pt;
+	font-family:Arial Black, sans-serif;
+	color:blue;
+	text-align:center;
+}
+
+p {
+	font-size:20pt;
+	font-family:Helwertica, sans-serif;
+}
